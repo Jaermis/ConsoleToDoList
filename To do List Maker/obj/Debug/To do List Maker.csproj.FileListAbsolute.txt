@@ -1,0 +1,8 @@
+C:\Users\Jermzu\source\repos\To do List Maker\To do List Maker\bin\Debug\To do List Maker.exe.config
+C:\Users\Jermzu\source\repos\To do List Maker\To do List Maker\bin\Debug\To do List Maker.exe
+C:\Users\Jermzu\source\repos\To do List Maker\To do List Maker\bin\Debug\To do List Maker.pdb
+C:\Users\Jermzu\source\repos\To do List Maker\To do List Maker\obj\Debug\To do List Maker.csproj.AssemblyReference.cache
+C:\Users\Jermzu\source\repos\To do List Maker\To do List Maker\obj\Debug\To do List Maker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jermzu\source\repos\To do List Maker\To do List Maker\obj\Debug\To do List Maker.csproj.CoreCompileInputs.cache
+C:\Users\Jermzu\source\repos\To do List Maker\To do List Maker\obj\Debug\To do List Maker.exe
+C:\Users\Jermzu\source\repos\To do List Maker\To do List Maker\obj\Debug\To do List Maker.pdb

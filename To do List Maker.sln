@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "To do List Maker", "To do List Maker\To do List Maker.csproj", "{9FAFE6F3-AE9C-4488-8364-E11E65760270}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FAFE6F3-AE9C-4488-8364-E11E65760270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAFE6F3-AE9C-4488-8364-E11E65760270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAFE6F3-AE9C-4488-8364-E11E65760270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAFE6F3-AE9C-4488-8364-E11E65760270}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1F9A41C-2EB3-41F4-BB5A-1235CF625CFE}
+	EndGlobalSection
+EndGlobal
